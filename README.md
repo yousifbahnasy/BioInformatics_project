@@ -3,10 +3,10 @@
   1-open any python terminal       
   2-go to the directory where the project is: cd D:/projectfolder/            
   3-streamlit run project.py        
-# used streamlit library to create the gui:
+# Used streamlit library to create the gui:
 
 ![image_2023-12-29_14-23-58](https://github.com/yousifbahnasy/BioInformatics_project/assets/76980953/f9887bed-9076-499c-8fe2-6730be061dfa)
-# it contains the following functions
+# It contains the following functions
 1-naive match    
 2-complement        
 3-CG_count      
